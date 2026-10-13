@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Direktori Profil Kelas X PPLG</title>
+</head>
+<body style="font-family: Arial; background-color: #f5f5f5;">
+
+<h1 align="center">🎓 DIREKTORI PROFIL KELAS X RPL 1</h1>
+<p align="center"><i>Buku Angkatan Digital & Galeri Profil Siswa Rekayasa Perangkat Lunak</i></p>
+
+<hr>
+
+<h3>📌 Informasi Umum Kelas</h3>
+
+<table border="1" cellpadding="10" width="100%">
+    <tr>
+        <td><b>Wali Kelas</b></td>
+        <td>Jay Park</td>
+    </tr>
+    <tr>
+        <td><b>Ketua Kelas</b></td>
+        <td>Martin Edwards Park</td>
+    </tr>
+    <tr>
+        <td><b>Jumlah Siswa</b></td>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td><b>Slogan Kelas</b></td>
+        <td><i>"PPLG JOSJIS🤙🏻"</i> </td>
+    </tr>
+</table>
+
+<br>
+
+<h3>📋 Daftar Anggota Kelas</h3>
+<ol>
+    <li><a href="#James">Zhao Yufan (wakil ketua Kelas)</a></li>
+    <li><a href="#Juhoon">Kim Juhoon (Anggota Kelas)</a></li>
+  <li><a href="#Martin">Martin Edwards Park (ketua Kelas)</a></li>
+  <li><a href="#Seonghyeon">Eom seonghyeon (Anggota Kelas)</a></li>
+  <li><a href="#Keonho">Ahn Keonho (Anggota Kelas)</a></li>
+</ol>
+
+<hr>
+
+<h3 id="James">👤 PROFIL SISWA 01 - Zhao Yufan</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/b97ptb.jpg"
+alt="Foto Siswa kesatu" width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="2026-10-12-133643104.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Zhao Yufan</li>
+    <li><b>Tempat, Tanggal Lahir:</b> Hong Kong, 14 Oktober 2005</li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Sekolah:</b> SMKN 1 Bangil</li>
+    <li><b>Hobi:</b> Hoki es,Taekwondo,bermain game</li>
+    <li><b>Cita-cita:</b> Software engineering</li>
+    <li><b>Motto:</b> "Jangan takut mencoba hal baru."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML dan pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 02 - Juhoon</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/reckw6.jpg" alt="Foto Siswa Kedua"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Kim Juhoon</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,03 januari 2008 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,sepak bola,membaca buku</li>
+    <li><b>Cita-cita:</b> pemain sepak bola</li>
+    <li><b>Motto:</b> "Terus belajar dan jangan menyerah."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa3">👤 PROFIL SISWA 03 - Martin</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/mnw615.jpg" alt="Foto Siswa Ketiga"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Martin  Edwards Park</li>
+    <li><b>Tempat, Tanggal Lahir:</b>canada,20 maret 2008 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> buat lagu,main gitar,menyanyi</li>
+    <li><b>Cita-cita:</b> artis terkenal</li>
+    <li><b>Motto:</b> "sholatlah sebelum disholati"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 04 - Seonghyeon</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/8vnaet.jpg" alt="Foto Siswa Keempat"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Eom Seonghyeon</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,13 januari 2009 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,berpetualang,membaca buku</li>
+    <li><b>Cita-cita:</b> ilmuwan</li>
+    <li><b>Motto:</b> "jangan lupa makan yakk"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML & pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa5">👤 PROFIL SISWA 05 - Keonho</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/wpbhmp.jpg" alt="Foto Siswa Kelima"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Ahn Keonho</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,14 February 2009 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,sepak bola, renang</li>
+    <li><b>Cita-cita:</b> atlet renang internasional</li>
+    <li><b>Motto:</b> "ayo renang,renang itu menyehatkan""</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>Direktori Profil Kelas X PPLG</title>
+</head>
+<body style="font-family: Arial; background-color: #f5f5f5;">
+
+<h1 align="center">🎓 DIREKTORI PROFIL KELAS X RPL 1</h1>
+<p align="center"><i>Buku Angkatan Digital & Galeri Profil Siswa Rekayasa Perangkat Lunak</i></p>
+
+<hr>
+
+<h3>📌 Informasi Umum Kelas</h3>
+
+<table border="1" cellpadding="10" width="100%">
+    <tr>
+        <td><b>Wali Kelas</b></td>
+        <td>Jay Park</td>
+    </tr>
+    <tr>
+        <td><b>Ketua Kelas</b></td>
+        <td>Martin Edwards Park</td>
+    </tr>
+    <tr>
+        <td><b>Jumlah Siswa</b></td>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td><b>Slogan Kelas</b></td>
+        <td><i>"PPLG JOSJIS🤙🏻"</i> </td>
+    </tr>
+</table>
+
+<br>
+
+<h3>📋 Daftar Anggota Kelas</h3>
+<ol>
+    <li><a href="#James">Zhao Yufan (wakil ketua Kelas)</a></li>
+    <li><a href="#Juhoon">Kim Juhoon (Anggota Kelas)</a></li>
+  <li><a href="#Martin">Martin Edwards Park (ketua Kelas)</a></li>
+  <li><a href="#Seonghyeon">Eom seonghyeon (Anggota Kelas)</a></li>
+  <li><a href="#Keonho">Ahn Keonho (Anggota Kelas)</a></li>
+</ol>
+
+<hr>
+
+<h3 id="James">👤 PROFIL SISWA 01 - Zhao Yufan</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/b97ptb.jpg"
+alt="Foto Siswa kesatu" width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="2026-10-12-133643104.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Zhao Yufan</li>
+    <li><b>Tempat, Tanggal Lahir:</b> Hong Kong, 14 Oktober 2005</li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Sekolah:</b> SMKN 1 Bangil</li>
+    <li><b>Hobi:</b> Hoki es,Taekwondo,bermain game</li>
+    <li><b>Cita-cita:</b> Software engineering</li>
+    <li><b>Motto:</b> "Jangan takut mencoba hal baru."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML dan pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 02 - Juhoon</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/reckw6.jpg" alt="Foto Siswa Kedua"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Kim Juhoon</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,03 januari 2008 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,sepak bola,membaca buku</li>
+    <li><b>Cita-cita:</b> pemain sepak bola</li>
+    <li><b>Motto:</b> "Terus belajar dan jangan menyerah."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa3">👤 PROFIL SISWA 03 - Martin</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/mnw615.jpg" alt="Foto Siswa Ketiga"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Martin  Edwards Park</li>
+    <li><b>Tempat, Tanggal Lahir:</b>canada,20 maret 2008 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> buat lagu,main gitar,menyanyi</li>
+    <li><b>Cita-cita:</b> artis terkenal</li>
+    <li><b>Motto:</b> "sholatlah sebelum disholati"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 04 - Seonghyeon</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/8vnaet.jpg" alt="Foto Siswa Keempat"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Eom Seonghyeon</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,13 januari 2009 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,berpetualang,membaca buku</li>
+    <li><b>Cita-cita:</b> ilmuwan</li>
+    <li><b>Motto:</b> "jangan lupa makan yakk"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML & pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa5">👤 PROFIL SISWA 05 - Keonho</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="https://files.catbox.moe/wpbhmp.jpg" alt="Foto Siswa Kelima"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="perkenalan2.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>Nama:</b> Ahn Keonho</li>
+    <li><b>Tempat, Tanggal Lahir:</b>korea selatan,14 February 2009 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> tidur,sepak bola, renang</li>
+    <li><b>Cita-cita:</b> atlet renang internasional</li>
+    <li><b>Motto:</b> "ayo renang,renang itu menyehatkan""</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+</body>
+</html>

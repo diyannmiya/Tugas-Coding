@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Video</title>
+</head>
+<body>
+
+  <h1>Catalog Video Diyan </h1>
+
+  <h3>Video YouTube</h3>
+
+    <iframe width="360" height="250"
+      src="https://youtube.com/embed/fFnM2Kxml_8"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="250"
+      src="https://youtube.com/embed/4uQqmGTGjJ4"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="250"
+      src="https://youtube.com/embed/BVhLQhTWWzM"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="250"
+      src="https://www.youtube.com/embed/VWqJifMMgZE"
+      title="Disney video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+
+  <h3>Video IQIYI</h3>
+
+    <iframe width="360" height="250"
+      src="https://www.iq.com/play/symikssz08?lang=id_id&sh_pltf=4"
+      title="IQIYI video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="250"
+      src="https://www.iq.com/play/1hulk2a4muw?lang=id_id&sh_pltf=4"
+      title="IQIYI video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="250"
+      src="https://www.iq.com/play/12bwgfc6f5c?lang=id_id&sh_pltf=4"
+      title="IQIYI video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+
+  <h3>Video TikTok</h3>
+
+    <iframe width="360" height="550"
+      src="https://www.tiktok.com/player/v1/7596607641808325906"
+      title="TikTok video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="550"
+      src="https://www.tiktok.com/player/v1/7557303292255161608"
+      title="TikTok video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+    <iframe width="360" height="550"
+      src="https://www.tiktok.com/player/v1/7661114702247791889"
+      title="Tiktok video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+
+</body>
+</html>
